@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/bhp.com',
+		'https://logo.clearbit.com/cat.com',
+		'https://logo.clearbit.com/cemex.com',
+		'https://logo.clearbit.com/janushenderson.com'
+	]}
+/>
 
 <Summary
 	generating
